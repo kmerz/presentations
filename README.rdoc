@@ -1,3 +1,7 @@
+= My ShowOff Representations
+* polymorphic: Scottish Ruby Conference 2012 Lightning Talk
+
+
 = ShowOff Presentation Software
 
 ShowOff is a Sinatra web app that reads simple configuration files for a
