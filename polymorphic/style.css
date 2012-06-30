@@ -1,0 +1,13 @@
+.content {
+	color: black;
+	font-family: helvetica, arial;
+}
+h1, h2 {
+	color: rgb(79, 180, 226);
+	font-family: helvetica;
+	font-size: 60px;
+}
+
+code {
+	font-size: 30px;
+}
